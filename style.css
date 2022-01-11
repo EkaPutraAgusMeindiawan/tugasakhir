@@ -1,0 +1,72 @@
+body{
+    background-image: url(1.jpg);
+    font-family: sans-serif;
+    
+}
+.data{
+    padding : 1em;
+    margin : 2em auto;
+    width : 17em;
+    background : #fff;
+    border-radius : 3px;
+}
+label{
+    font-size: 10pt;
+    color: #555;
+}
+input[type="text"],textarea{
+    padding : 8px;
+    width : 95%;
+    background: #efefef;
+    border : 0;
+    font-size: 10pt;
+    margin : 6px 0px;
+}
+.tombol{
+    background: #3498db;
+    color: #ffff;
+    border: 0;
+    padding: 5px 8px;
+}
+.jam_digital{
+    overflow: hidden;
+    width: 330px;
+    margin: 20px auto;
+    border: 5px solid black;
+    background-color:chartreuse;
+}
+.kotak{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.jam_digital p{
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+footer {  
+    background-color: black;
+    height: auto;
+    color: #fff;
+    font-family: sans-serif;
+    padding-top: 40px;
+}
+.footer-bottom{
+    background-color: black;
+    color: #ffff;
+}
+.card:hover{
+    border: 1px solid black;
+
+}
+.jumbotron{
+    background-color: lightblue;
+    color: black;
+    font: optional;
+
+}
